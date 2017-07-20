@@ -5,6 +5,7 @@ target
 project/boot
 .history
 project.vim
+project/
 *.old
 .idea
 .project
